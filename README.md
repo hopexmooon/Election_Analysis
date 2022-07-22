@@ -7,11 +7,11 @@ The purpose of this election audit analysis was to help Seth and Tom audit the e
 
 **Election-Audit Results**: 
   
-<ins>* How many votes were cast in this congressional election?</ins>
+* How many votes were cast in this congressional election?
 
 There were a total of 369,711 votes casted
 
-<ins>* Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.</ins>
+* Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
 
 There were three counties that we could analyze: Jefferson, Denver, Arapahoe. From the three, Denver had the higest turnover rate with 82.8% (306,055 votes) of votes coming from that county. Second was Jefferson with 10.5% (38,855 votes) of the vote and Arapahoe with 6.7% (24,801 votes). 
 
@@ -19,15 +19,15 @@ There were three counties that we could analyze: Jefferson, Denver, Arapahoe. Fr
 
 
 
-<ins>* Which county had the largest number of votes?</ins>
+* <ins> Which county had the largest number of votes?</ins>
 
 Denver had the largest number of votes with 306,055 votes (82.8%) of the total 369,711 votes casted. Jefferson county had the second highest turnover rate with 38,855 votes (10.5% of the voting population). Arapahoe had the least votes casted with 24,801 (6.7%) people showing up to vote. 
 
-<ins>* Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.</ins>
+* <ins> Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.</ins>
 
 To further breakdown the votes between each of the three candidates. The one with the most votes was Diana DeGette with 73.8% (272,892) of the voting population voting for her. Second was Charles Casper Stockham with 23.0% (85,213) and last going to Raymon Anthony Doane at 3.1% (11,606). 
 
-<ins>* Which candidate won the election, what was their vote count, and what was their percentage of the total votes?</ins>
+* <ins> Which candidate won the election, what was their vote count, and what was their percentage of the total votes?</ins>
 
 With the most votes casted in her name, Diana DeGette won the popular vote. She recieved 272,892 votes out of the total of 369,711 votes casted. They captured 73.8% of the votes.
 
